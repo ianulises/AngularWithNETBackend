@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWithNETBackend.Server", "AngularWithNETBackend.Server\AngularWithNETBackend.Server.csproj", "{72419403-04D9-430A-BFF2-6937B3C9E524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWithNETBackend.AppHost", "AngularWithNETBackend.AppHost\AngularWithNETBackend.AppHost.csproj", "{7FDFE33E-562E-4672-9182-0351BE6B2AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWithNETBackend.ServiceDefaults", "AngularWithNETBackend.ServiceDefaults\AngularWithNETBackend.ServiceDefaults.csproj", "{16D7A42D-7AF9-4878-A09D-61BA04961368}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angularwithnetbackend.client", "angularwithnetbackend.client\angularwithnetbackend.client.esproj", "{EFD684DA-073B-4ABD-88D8-2C501D3283BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72419403-04D9-430A-BFF2-6937B3C9E524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72419403-04D9-430A-BFF2-6937B3C9E524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72419403-04D9-430A-BFF2-6937B3C9E524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72419403-04D9-430A-BFF2-6937B3C9E524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDFE33E-562E-4672-9182-0351BE6B2AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDFE33E-562E-4672-9182-0351BE6B2AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDFE33E-562E-4672-9182-0351BE6B2AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDFE33E-562E-4672-9182-0351BE6B2AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D7A42D-7AF9-4878-A09D-61BA04961368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D7A42D-7AF9-4878-A09D-61BA04961368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D7A42D-7AF9-4878-A09D-61BA04961368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D7A42D-7AF9-4878-A09D-61BA04961368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD684DA-073B-4ABD-88D8-2C501D3283BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
